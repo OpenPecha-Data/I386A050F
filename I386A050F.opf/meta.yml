@@ -1,0 +1,27 @@
+id: I386A050F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-22T00:41:57+00:00'
+last_modified: '2022-06-08T12:56:26.345084+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W2DB16421
+  title: རྨ་ལྷོའི་རིག་གནས་ལོ་རྒྱུས་དཔྱད་ཡིག་བདམས་བསྒྲིགས། ༡
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    E999:
+      image_group_id: I1PD33767
+      title: ''
+      total_pages: 62
+      order: 1
+      base_file: E999.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
